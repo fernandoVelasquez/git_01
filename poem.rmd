@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Fernando D Velasquez"
+date: "11 February, 2021"
 output: html_document
 ---
 
